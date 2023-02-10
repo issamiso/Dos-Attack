@@ -10,4 +10,4 @@ cd Dos-Attack
 chmod +x *
 python3 setup.py
 ```
-  
+<img src='https://raw.githubusercontent.com/issamiso/Dos-Attack/main/image/image.png' alt='Photo'><\img>
